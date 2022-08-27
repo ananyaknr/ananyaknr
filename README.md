@@ -11,7 +11,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ananyaknr&show_icons=true&locale=en" alt="ananyaknr" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ananyaknr&" alt="ananyaknr" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ananyaknr&" alt="ananyaknr" /></p> 
 
 <h3 align="left">My contact</h3>
 <p align="left">
